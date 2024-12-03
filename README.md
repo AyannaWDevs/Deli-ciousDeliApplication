@@ -29,4 +29,10 @@ Displays a detailed order summary with the total price.
 **Receipts Management:**
 
 Generates a text file receipt for each order.
-Saves receipts to a directory (receipts) with a timestamp-based filename (e.g., 20241202-221831.txt).
+Saves receipts to a directory (receipts) with a timestamp-based filename (e.g., 20241202-221831.txt).'
+
+
+
+**Application CLI**
+
+![Delicious Deli UI (1)](https://github.com/user-attachments/assets/4f9f4336-f5a6-4e41-ac44-3ab4d41f4475)
