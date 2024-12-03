@@ -1,0 +1,6 @@
+Order Date & Time: 2024-12-02 22:45:21
+
+Order Details:
+MEDIUM Drink - $2.5
+SALT_AND_VINEGAR Chips - $1.50
+Total Price: $4.0

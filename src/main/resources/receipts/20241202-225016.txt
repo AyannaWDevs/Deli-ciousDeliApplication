@@ -1,0 +1,7 @@
+Order Date & Time: 2024-12-02 22:50:16
+
+Order Details:
+MEDIUM WHITE Sandwich, Toasted: true, Premium Toppings: [HAM, AMERICAN_CHEESE], Extra Premium Toppings: [AMERICAN_CHEESE], Regular Toppings: [LETTUCE, TOMATOES, CUCUMBERS], Price: $11.6
+SMALL Drink - $2.0
+SOUR_CREAM Chips - $1.50
+Total Price: $15.1
