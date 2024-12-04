@@ -32,12 +32,16 @@ Generates a text file receipt for each order.
 Saves receipts to a directory (receipts) with a timestamp-based filename (e.g., 20241202-221831.txt).'
 
 ### Object Oriented Programming (OOP) Concepts Learned
+
 **Modular Design**
 - I learned that separating functionality into distinct classes like Order, Sandwich, and ReceiptsManager helps with clarity and reusability.
+
 **Abstraction**
   - Simplifying complex features like pricing and toppings with reusable interfaces and methods helps with making the program easier to understand and maintain by exposing only necessary functionalities required for the project. 
+
 **Polymorphism**
 - Through creating dynamic programming logic or rules, the same methods or interfaces can be used to perform different tasks; for example, by using @Overide to customize a method's beavior.
+
 **Inheritance**
 - Inheritance can allow code to be reusable across different classes, which reduces redundancy. It also helps to encapsulate shared properties and methods which are used. 
   
