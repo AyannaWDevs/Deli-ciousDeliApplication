@@ -44,8 +44,6 @@ Saves receipts to a directory (receipts) with a timestamp-based filename (e.g., 
 
 **Inheritance**
 - Inheritance can allow code to be reusable across different classes, which reduces redundancy. It also helps to encapsulate shared properties and methods which are used. 
-  
-### Favorite Pieces of Code
 
 **Application CLI**
 
